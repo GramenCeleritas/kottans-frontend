@@ -5,3 +5,4 @@
  ## 3. Git Collaboration
 Закріпив знання з гіту щодо сумісної роботи з remote repo, лекції на курсері дивовижні, все зрозуміло та цікаво. Завдання на **https://learngitbranching.js.org/** виконав ще коли проходив першу частину **Git Basics** бо це було наче грати в гру. 
 <img src= "https://github.com/GramenCeleritas/images/blob/main/Screenshot%202022-10-03%20205654.jpg" width="650">
+<img src= "https://github.com/GramenCeleritas/images/blob/main/Screenshot%202022-10-03%20205713.jpg" width="650">
